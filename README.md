@@ -38,7 +38,8 @@ Version 2 Progress: 50%
 
 Landing Page:
 
-![](src/assets/main-screen.png)
+![image](https://user-images.githubusercontent.com/90780618/194294608-7e4da0c0-9322-4640-a9bd-b66886adf8e0.png)
+
 ---
 Product Preview:
 
