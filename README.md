@@ -43,15 +43,18 @@ Landing Page:
 ---
 Product Preview:
 
-![](src/assets/preview-page.png)
+![image](https://user-images.githubusercontent.com/90780618/194294823-77b4a7e6-70a8-45c6-bb6a-3f763c116182.png)
+
 ---
 Sign-in && Sign-Up Page:
 
-![](src/assets/signinup.png)
+![image](https://user-images.githubusercontent.com/90780618/194294930-394f0cc7-e473-48b9-a547-24a60c98c08a.png)
+
 
 Cart Section:
 
-![](src/assets/cart.png)
+![image](https://user-images.githubusercontent.com/90780618/194294971-21896ca6-9156-48f7-aa86-2ed386c14d9f.png)
+
 
 ---
 
